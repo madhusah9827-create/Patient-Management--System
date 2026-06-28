@@ -26,3 +26,9 @@ Patient Management System is a REST API application developed using Spring Boot 
 - Git & GitHub
 
 ## Project Structure
+src
+ ├── controller
+ ├── model
+ ├── repository
+ ├── service
+ └── PatientManagementApplication.java
