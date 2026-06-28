@@ -1,6 +1,6 @@
 # Patient Management System
 
-A fully functional CRUD (Create, Read, Update, Delete) REST API for managing patient records, built with **Spring Boot** and **MongoDB**. This project follows the layered architecture from the [reference project](https://github.com/chynarendra/java-demo-project.git).
+A RESTful web application developed using Spring Boot and MongoDB to manage patient information. The system supports complete CRUD (Create, Read, Update, Delete) operations through REST APIs. This project is designed as a learning project to demonstrate Spring Boot development with a layered architecture.
 
 ## Developed by
 Madhu Sah 
@@ -139,3 +139,4 @@ Patient deleted successfully.
 ```
 
 ## Troubleshooting
+
