@@ -1,6 +1,6 @@
 # Patient Management System
 
-A RESTful web application developed using Spring Boot and MongoDB to manage patient information. The system supports complete CRUD (Create, Read, Update, Delete) operations through REST APIs. This project is designed as a learning project to demonstrate Spring Boot development with a layered architecture.
+A RESTful web application developed using Spring Boot and MongoDB to manage patient information. The system supports complete CRUD (Create, Read, Update, Delete) operations through REST APIs. This project is designed as a learning project to demonstrate Spring Boot development with a layered architecture project reference..
 
 ## Developed by
 Madhu Sah 
