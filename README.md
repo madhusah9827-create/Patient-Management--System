@@ -139,5 +139,6 @@ Patient deleted successfully.
 ```
 
 ## Troubleshooting
-MongoDB connection refused: Start MongoDB locally (brew services start mongodb-community) or update the URI for Atlas.
+MongoDB connection refused: Start MongoDB locally (brew services start mongodb-community) 
+or update the URI for Atlas.
 Port 8080 in use: Add server.port=8081 to application.properties.
